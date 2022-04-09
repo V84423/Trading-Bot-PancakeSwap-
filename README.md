@@ -29,9 +29,9 @@ This bot survived the beta and is now in the full version. Feel Free to contact 
 
 BOT is free-to-use, but you are welcome to appreciate my work ☺️
 
-ETH - 0x0A4A569cfA700Fc2A1d54974712716E537C169ff
+ETH - 0xbfBE62f5298f8a50CEE5040add1f89753Ef286aA
 
-BNB - 0x0A4A569cfA700Fc2A1d54974712716E537C169ff  
+BNB - 0xbfBE62f5298f8a50CEE5040add1f89753Ef286aA  
   
 Thank's to Empaticgame! spend: 0,8 BNB ❤️
 
